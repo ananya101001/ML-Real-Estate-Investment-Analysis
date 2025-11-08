@@ -4,7 +4,7 @@
 This project applies machine learning techniques to analyze and predict real estate investment opportunities. The analysis explores various features that influence property values and rental yields to help make data-driven investment decisions.
 
 ## Authors
-- Ananya
+👤 **Ananya** - [GitHub](https://github.com/ananya101001)
 
 ## Project Structure
 ```
@@ -14,11 +14,14 @@ ML-Real-Estate-Investment-Analysis/
 └── README.md
 ```
 
-## Objectives
-- Analyze real estate market data to identify investment patterns
-- Build predictive models for property valuation
-- Evaluate key factors affecting real estate investment returns
-- Provide actionable insights for investment decision-making
+## Dataset
+The dataset includes various property features such as:
+- **Location attributes**: Geographic coordinates, neighborhood demographics
+- **Property characteristics**: Size, bedrooms, bathrooms, age
+- **Financial metrics**: Sale prices, rental income, property taxes
+- **Market indicators**: Days on market, listing prices
+
+*Dataset source and preprocessing steps are documented in the notebook.*
 
 ## Technologies Used
 - **Python**: Primary programming language
@@ -29,17 +32,25 @@ ML-Real-Estate-Investment-Analysis/
   - NumPy
   - Matplotlib/Seaborn (for visualization)
 
-## Key Features
-- Data preprocessing and exploratory data analysis (EDA)
-- Feature engineering for real estate metrics
-- Multiple ML model implementations and comparisons
-- Model evaluation and performance metrics
-- Investment recommendations based on predictions
+## Machine Learning Models
+This project explores multiple regression and classification algorithms:
+- **Linear Regression**: Baseline model for price prediction
+- **Ridge & Lasso Regression**: Regularized models to prevent overfitting
+- **Random Forest**: Ensemble method for robust predictions
+- **Gradient Boosting**: Advanced ensemble technique
+- **XGBoost/LightGBM**: High-performance gradient boosting implementations
+
+## Evaluation Metrics
+Models are evaluated using:
+- **R² Score**: Proportion of variance explained
+- **RMSE**: Root Mean Squared Error
+- **MAE**: Mean Absolute Error
+- **Cross-validation**: K-fold validation for generalization
 
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/ML-Real-Estate-Investment-Analysis.git
+   git clone https://github.com/ananya101001/ML-Real-Estate-Investment-Analysis.git
    ```
 
 2. Install required dependencies:
@@ -56,9 +67,12 @@ ML-Real-Estate-Investment-Analysis/
 
 ## Results
 The analysis provides insights into:
-- Most influential features for property valuation
-- Model performance comparisons
-- Investment recommendations based on predictive analytics
+- **Feature Importance**: Which property characteristics most influence value
+- **Model Performance**: Comparative analysis of different ML algorithms
+- **Investment Recommendations**: Data-driven insights for property selection
+- **Market Trends**: Patterns in pricing and rental yields across regions
+
+*Note: Detailed results and visualizations are available in the Jupyter notebook.*
 
 ## Future Improvements
 - Incorporate time-series analysis for market trends
