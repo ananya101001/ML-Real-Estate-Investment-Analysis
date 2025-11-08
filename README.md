@@ -4,7 +4,6 @@
 This project applies machine learning techniques to analyze and predict real estate investment opportunities. The analysis explores various features that influence property values and rental yields to help make data-driven investment decisions.
 
 ## Authors
-👤 **Apoorva**  
 👤 **Ananya** - [GitHub](https://github.com/ananya101001)
 
 ## Project Structure
