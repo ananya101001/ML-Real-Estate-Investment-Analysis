@@ -25,7 +25,7 @@ The dataset includes various property features such as:
 *Dataset source and preprocessing steps are documented in the notebook.*
 
 ## Reference Paper
-📄 **IEEE Paper**: `IEEE-Machine Learning for Real Estate Investment Analysis_ Clustering, Classification, and Price Forecasting.pdf`
+📄 [IEEE Paper](IEEE-Machine%20Learning%20for%20Real%20Estate%20Investment%20Analysis_%20Clustering%2C%20Classification%2C%20and%20Price%20Forecasting.pdf)
 
 This project implements the methodologies and concepts discussed in the accompanying IEEE research paper, which covers clustering, classification, and price forecasting techniques for real estate investment analysis.
 
