@@ -4,6 +4,7 @@
 This project applies machine learning techniques to analyze and predict real estate investment opportunities. The analysis explores various features that influence property values and rental yields to help make data-driven investment decisions.
 
 ## Authors
+👤 **Apoorva**  
 👤 **Ananya** - [GitHub](https://github.com/ananya101001)
 
 ## Project Structure
@@ -11,6 +12,7 @@ This project applies machine learning techniques to analyze and predict real est
 ML-Real-Estate-Investment-Analysis/
 │
 ├── ML_Midterm_Real_Estate_Investment_Analysis_Apoorva_&_Ananya_ipynb.ipynb
+├── IEEE-Machine Learning for Real Estate Investment Analysis_ Clustering, Classification, and Price Forecasting.pdf
 └── README.md
 ```
 
@@ -22,6 +24,11 @@ The dataset includes various property features such as:
 - **Market indicators**: Days on market, listing prices
 
 *Dataset source and preprocessing steps are documented in the notebook.*
+
+## Reference Paper
+📄 **IEEE Paper**: `IEEE-Machine Learning for Real Estate Investment Analysis_ Clustering, Classification, and Price Forecasting.pdf`
+
+This project implements the methodologies and concepts discussed in the accompanying IEEE research paper, which covers clustering, classification, and price forecasting techniques for real estate investment analysis.
 
 ## Technologies Used
 - **Python**: Primary programming language
